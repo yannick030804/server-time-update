@@ -1,0 +1,6 @@
+node_name;connected_nodes;connection_times
+node_1;node_3,node_4;5.7,10.4
+node_2;node_4,node_ntp;10.2,12.0
+node_3;node_1,node_4,node_ntp;5.7,3.1,35.9
+node_4;node_2,node_3;10.2,3.1
+node_ntp;node_2,node_3;12.0,35.9
